@@ -18,3 +18,5 @@ autolink = true
 email_form = 2
 +++
 
+
+A sensitivity analysis of the long-term expected utility of optimal portfolios, with H. Park (Preprint, 42 pages; also available at SSRN; arXiv) 
